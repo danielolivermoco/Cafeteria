@@ -1,7 +1,7 @@
 <h1> Projeto Cafeteria DevCLUB </h1>
 <br>
 <br>
-<h2>No Clube de Portfólio do DevClub, criamos uma experiência virtual acolhedora e convidativa para os apreciadores de café com o projeto "Café DevClub". Utilizando HTML, CSS e JavaScript, desenvolvemos um site com design responsivo, garantindo uma experiência de usuário perfeita em dispositivos móveis e desktops.  <br><br>
+<h2>Neste projeto, criei uma experiência virtual acolhedora e convidativa para os apreciadores de café com o projeto "Café DevClub". Utilizando HTML, CSS e JavaScript, desenvolvemos um site com design responsivo, garantindo uma experiência de usuário perfeita em dispositivos móveis e desktops.  <br><br>
 Recursos Principais: <br><br>
   
 Destacamos uma variedade de menus de café, cada um apresentando uma seleção única de bebidas cuidadosamente elaboradas, desde expressos intensos até lattes cremosos. As imagens vibrantes e as descrições detalhadas despertam o paladar e a curiosidade dos visitantes, incentivando-os a explorar e experimentar novos sabores.

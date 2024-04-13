@@ -286,7 +286,7 @@ section {
 @media screen and (max-width: 1200px) {
 
     .home-container section {
-        margin-top: 6rem;
+        margin-top: 4rem;
     }
 
     .about .row .container-image img {
